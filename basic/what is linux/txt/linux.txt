@@ -1,0 +1,130 @@
+Apa Itu Linux?
+
+Sistem operasi linux adalah sekumpulan program yang bertindak sebagai
+penghubung antara komputer dengan pengguna terakhir
+
+Program koputer yang mengalokasikan resource system dan mengkoordinasikan
+semua detil dari internal komputer disebut sebagai sistem operasi atau
+kernel
+
+Kenapa Sistem Operasi Linux?
+
+Linux dikembangkan untuk digunakan sebagai alternative dari sistem operasi
+lain yang tersedia tetapi mahal, terutama Unix, Windows, Mac OS, MS_DOS,
+Solaris, dan lain-lain. Ketika Linus Torvalds belajar di universitas Helsinki,
+ia memutuskan untuk membuat sistem operasinya sendiri dan membuatnya tetap 
+open source agar semua user diseluruh dunia dapat mengkontribusikan pendapatnya
+untuk mengembangkan sistem tersebut
+
+- Linus Torvalds mengembangkan kernelnya sendiri dan beberapa program sekitar
+  tahun 1991, dimana nantinya menjadi sebuah sistem operasi yang diterima oleh
+  seluruh computer engineer di perusahaan, universitas, maupun institusi lain
+
+- Sekarang linux adalah satu dari sistem operasi yang banyak digunakan, Linux
+  hadir dalam beberapa jenis seperti Ubuntu, CentOS, Fedora, Debian, openSUSE
+  , RedHat, MX Linux, Arch Linux, Gentoo, dan sebagainya
+
+- beberapa orang dapat menggunakan komputer unix pada waktu yang sama; inilah
+  mengapa unix disebut sebagai sistem multiuser
+
+- seorang user dapat juga menjalankan beberapa program dalam waktu yang sama,
+  karena itu unix termasuk kedalam multitasking environment
+
+Apa Itu Linux Shell?
+
+Users berkomunikasi dengan kernel melalui program yang disebut shell. Shell
+adalah command line interpreter, ia akan menerjemanhkan perintah yang 
+dimasukkan user dan mengkonversi mereka menjadi bahasa yang dapat dimengerti
+oleh kernel
+
+Arsitektur Linux
+
+*Gambar ilustrasi dari sistem linux dapat dilihat di gambar
+
+konsep utama yang menyatukan semua versi dari linux adalah sebagai berikut : 
+
+- Kernel : 
+kernel adalah jantung dari sistem operasi Linux. ia berinteraksi
+dengan hardware dan hampir semua tugas seperti management memory,
+penjadwalan tugas, dan management file
+
+- Shell : 
+shell adalah perangkat yang memproses permintaan kita. Ketika kita mengetik
+sebuah perintah pada terminal, shell akan mengartikan perintah dan memanggil
+program yang kita inginkan. shell menggunakan syntax stnadard untuk semua 
+perintah. C Shell, Bourne Shell dan Korn Shell adalah contoh shell terkenal
+yang tersedia di hampir semua varian linux
+
+- command and utilities :
+ada banyak perintah dan perangkat yang dapat kita gunakan, ftp, ssh, cp, mv, 
+cat, dan grep, dan lain sebagainya. Adalah beberapa contoh dari command and
+utilities. Ada lebih dari 250 perintah dasar ditambah lagi yang ditambahkan
+dari 3rd party software. semua perintah memiliki opsinya masing-masing
+
+- files and directories : 
+semua data dari unix diatur menjadi files, semua file kemudian diatur kedalam
+direktori. direktori ini kemudian diatur lagi menjadi struktur yang mirip
+pohom yang disebut sebagai filesystem
+
+Aplikasi Linux
+
+Linux adalah sistem operasi open-source yang banyak digunakan di server,
+web server, supercomputer, embedded system, dsb. Keunggulan dari sistem
+linux sendiri adalah kita akan menemukan banyaknya software yang gratis
+dan open source
+
+beberapa contohnya seperti berikut ini :
+
+- VLC media player : 
+VLC media player adalah software media player yang dapat memainkan hampir
+semua tipe media files, termasuk audio dan video. VLC media player 
+dianggap sebagai satu dari media player terbaik yang ada dipasaran
+
+- GNU image manipulation program : 
+GIMP adalah program edit gambar yang dapat digunakan untuk berbagai
+tugas mulai dari image retouching untuk design grafis. GIMP menyediakan
+kualitas yang baik untuk manipulasi gambar, perbaikan gambar, cloning,
+dan pemilihan. Ia juga mendukung layers, mask, dan channels, memperbolehkan
+kita untuk melakukan teknik editing yang lebih kompleks
+
+- FileZilla : 
+FileZilla adalah open source FTP client yang dapat mentransfer file antara
+2 komputer dan sebuah remote server. ia juga dikenal karena interfacenya
+yang user-friendly dan kemudahan penggunaannya
+
+- web servers : 
+Linux paling sering digunaakn sebagai web server. Ada beberapa software
+web server (Apache, NGix dsb) yang tersedia dan dapat diinstalkan pada
+linux
+
+- LibreOffice : 
+LibreOffice adalah software yang menyediakan alternatif untuk aplikasi
+office. LibreOffice mendukung berbagai format file seperti DOC, DOCX, PPT,
+PPTX, XLSX, dsb.
+
+- Vim : 
+ini adalah salah satu tex editor yang tersedia pada Linux, dapat cukup
+digemari oleh komunitas software developers
+
+Linux Licensing
+
+Linux adalah satu dari banyak contoh yang cocok untuk application software
+yang gratis dan open source, Linux source code dapat digunakan, diubah, dan
+didistribusikan secara komersil ataupun non-komersil oleh semua orang 
+dibawah lisensi yang menaunginya, seperti GNU General Public License (GPL)
+
+Linux kernel di lisensi dibawah GPLv2, dengan pengecualian pada system calls
+yang memperbolehkan kode yang dipanggil kernel melalui system calls tidak 
+dilisensikan dibawah GPL
+
+Aturan GPL memperbolehkan semua orang untuk mendistribusikan ulang, dan
+menjual produk software yang dinaungi GPL, selama penerima juga boleh
+membangun ulang copy yang smaa dari sourcenya
+
+GNU General Public License dimaksudkan untuk menjamin kebebasan kita
+untuk menyebarkan dan merubah software gratis, dan juga memastikan
+software tersebut gratis untuk semua user
+
+Linux dilisensikan dibawah GNU General Public License (GPL), yang dimana
+merupakan lisensi software gratis yang memberikan kebebasan pada user untuk
+menjalankan, mempelajari, dan mengubah software tersebut
